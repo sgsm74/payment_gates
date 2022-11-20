@@ -1,7 +1,8 @@
 name: payment_gates
-description: A new Flutter package project.
+description: A Flutter package for payment gateways.
 version: 0.0.1
-homepage:
+homepage: https://saeedqasemi.ir
+repository: https://github.com/sgsm74/payment_gates
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
